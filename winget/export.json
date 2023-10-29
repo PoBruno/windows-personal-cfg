@@ -72,7 +72,6 @@
 					"PackageIdentifier" : "Fortinet.FortiClientVPN"
 				},
 				{
-				{
 					"PackageIdentifier" : "Microsoft.AzureCLI"
 				},
 				{
@@ -81,7 +80,6 @@
 				{
 					"PackageIdentifier" : "Starship.Starship"
 				},
-				{
 				{
 					"PackageIdentifier" : "GitHub.cli"
 				},
