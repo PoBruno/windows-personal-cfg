@@ -12,31 +12,46 @@
 					"PackageIdentifier" : "AgileBits.1Password"
 				},
 				{
-					"PackageIdentifier" : "7zip.7zip"
+					"PackageIdentifier" : "Nvidia.GeForceExperience"
 				},
 				{
-					"PackageIdentifier" : "AltDrag.AltDrag"
+					"PackageIdentifier" : "Nvidia.PhysX"
+				},
+				{
+					"PackageIdentifier" : "Valve.Steam"
+				},
+				{
+					"PackageIdentifier" : "Google.Chrome"
+				},
+				{
+					"PackageIdentifier" : "Notepad++.Notepad++"
 				},
 				{
 					"PackageIdentifier" : "Discord.Discord"
 				},
 				{
+					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
+				},
+				{
+					"PackageIdentifier" : "Obsidian.Obsidian"
+				},
+				{
+					"PackageIdentifier" : "7zip.7zip"
+				},
+				{
+					"PackageIdentifier" : "RARLab.WinRAR"
+				},
+				{
 					"PackageIdentifier" : "Git.Git"
 				},
 				{
-					"PackageIdentifier" : "Hashicorp.Terraform"
+					"PackageIdentifier" : "AltDrag.AltDrag"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Edge"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DevHome"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
-				},
-				{
-					"PackageIdentifier" : "Notepad++.Notepad++"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.Office"
@@ -45,25 +60,13 @@
 					"PackageIdentifier" : "OBSProject.OBSStudio"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.OneDrive"
-				},
-				{
 					"PackageIdentifier" : "Postman.Postman"
 				},
 				{
 					"PackageIdentifier" : "RaspberryPiFoundation.RaspberryPiImager"
 				},
 				{
-					"PackageIdentifier" : "Valve.Steam"
-				},
-				{
 					"PackageIdentifier" : "Stremio.Stremio"
-				},
-				{
-					"PackageIdentifier" : "RARLab.WinRAR"
-				},
-				{
-					"PackageIdentifier" : "Obsidian.Obsidian"
 				},
 				{
 					"PackageIdentifier" : "qBittorrent.qBittorrent"
@@ -72,19 +75,22 @@
 					"PackageIdentifier" : "Fortinet.FortiClientVPN"
 				},
 				{
+					"PackageIdentifier" : "Hashicorp.Terraform"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.AzureCLI"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.PowerShell"
-				},
-				{
-					"PackageIdentifier" : "Starship.Starship"
 				},
 				{
 					"PackageIdentifier" : "GitHub.cli"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.PowerShell"
+				},
+				{
 					"PackageIdentifier" : "PuTTY.PuTTY"
+				},
+				{
+					"PackageIdentifier" : "Starship.Starship"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
@@ -93,22 +99,7 @@
 					"PackageIdentifier" : "Transmission.Transmission"
 				},
 				{
-					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
-				},
-				{
 					"PackageIdentifier" : "VideoLAN.VLC"
-				},
-				{
-					"PackageIdentifier" : "Nvidia.GeForceExperience"
-				},
-				{
-					"PackageIdentifier" : "Nvidia.PhysX"
-				},
-				{
-					"PackageIdentifier" : "Google.Chrome"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.XNARedist"
 				},
 				{
 					"PackageIdentifier" : "TechSmith.Snagit.2021"
