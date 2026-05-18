@@ -9,9 +9,6 @@
 			"Packages" : 
 			[
 				{
-					"PackageIdentifier" : "AgileBits.1Password"
-				},
-				{
 					"PackageIdentifier" : "Nvidia.GeForceExperience"
 				},
 				{
@@ -33,9 +30,6 @@
 					"PackageIdentifier" : "EpicGames.EpicGamesLauncher"
 				},
 				{
-					"PackageIdentifier" : "Obsidian.Obsidian"
-				},
-				{
 					"PackageIdentifier" : "7zip.7zip"
 				},
 				{
@@ -45,40 +39,10 @@
 					"PackageIdentifier" : "Git.Git"
 				},
 				{
-					"PackageIdentifier" : "AltDrag.AltDrag"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.Edge"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsTerminal"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.Office"
-				},
-				{
-					"PackageIdentifier" : "OBSProject.OBSStudio"
-				},
-				{
-					"PackageIdentifier" : "Postman.Postman"
-				},
-				{
-					"PackageIdentifier" : "RaspberryPiFoundation.RaspberryPiImager"
-				},
-				{
 					"PackageIdentifier" : "Stremio.Stremio"
 				},
 				{
 					"PackageIdentifier" : "qBittorrent.qBittorrent"
-				},
-				{
-					"PackageIdentifier" : "Fortinet.FortiClientVPN"
-				},
-				{
-					"PackageIdentifier" : "Hashicorp.Terraform"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.AzureCLI"
 				},
 				{
 					"PackageIdentifier" : "GitHub.cli"
@@ -87,22 +51,10 @@
 					"PackageIdentifier" : "Microsoft.PowerShell"
 				},
 				{
-					"PackageIdentifier" : "PuTTY.PuTTY"
-				},
-				{
-					"PackageIdentifier" : "Starship.Starship"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
-					"PackageIdentifier" : "Transmission.Transmission"
-				},
-				{
 					"PackageIdentifier" : "VideoLAN.VLC"
-				},
-				{
-					"PackageIdentifier" : "TechSmith.Snagit.2021"
 				}
 			],
 			"SourceDetails" : 
